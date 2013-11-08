@@ -3,7 +3,7 @@ package gittest
 class Hello {
 
 	String name
-	String title
+	String otherstuff
     static constraints = {
     }
 }
